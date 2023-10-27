@@ -7,7 +7,6 @@ fitur:
 - lihat katalog literatur, ada rekomendasi di dashboard (pakai random aja di views terus ada tombol add)
 - penyimpanan literatur ke suatu daftar (buat model koleksi buku)
 - apa ya
-- hayo apa
 
 at least i tried (?)
 
